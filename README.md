@@ -1,16 +1,24 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme — PM Knowledge Hub
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+Purpose
+This repository is the single source of truth for Project Management practices at OctoAcme (PM-only for now). Use it for templates, playbooks, and guidance.
 
-Hey monika-bramhecha-talentica!
+Quick start
+1. New project? Copy the relevant templates from TEMPLATES/ into your project folder.
+2. Need help? Open a PR to suggest updates or file an issue tagged `docs/pm`.
+3. Office hours: Weekly PM office hours — check OWNERS.md for schedule/contacts.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Structure
+- PLAYBOOKS/: repeatable PM playbooks (lifecycle, risk, reporting)
+- TEMPLATES/: ready-to-copy templates for projects
+- EXAMPLES/: anonymized examples of completed artifacts
+- OWNERS.md: who to contact for each area
 
-Remember, it's self-paced so feel free to take a break! ☕️
+How to contribute
+See CONTRIBUTING.md.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/monika-bramhecha-talentica/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Owner: monika-bramhecha-talentica
+Last reviewed: 2026-03-13
+Review cadence: quarterly
+Tags: [hub, landing]
 
